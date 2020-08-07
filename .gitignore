@@ -3,3 +3,7 @@
 __pycache__
 *.db
 *.pytest_cache
+./zippedData/name.basics.tsv.gz
+./zippedData/title.akas.tsv.gz
+./zippedData/title.basics.tsv.gz
+./zippedData/title.principals.tsv.gz
